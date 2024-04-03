@@ -1,0 +1,13 @@
+{
+    "$(1.filePaths)" : "2",
+    "$(2.filePaths)" : "3",
+    "$(3.filePaths)" : "5",
+    "$(4.filePaths)" : "7",
+    "$(5.filePaths)" : "11",
+    "$(6.filePaths)" : "13",
+    "$(7.filePaths)" : "17",
+    "$(8.filePaths)" : "19",
+    "$(pathConfigString.filePaths)" : "D:\CodingGit_StorageHDD\PythonGit\PythonFileWriter\Config_file_storage\filePaths.json",
+    "$(readWritePythonFileOutputArg.filePaths)" : "D:\CodingGit_StorageHDD\PythonGit\PythonFileWriter\CustomFileFactory\Output_Script.py"
+
+}
